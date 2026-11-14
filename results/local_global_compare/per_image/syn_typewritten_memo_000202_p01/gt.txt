@@ -1,0 +1,33 @@
+<div data-bbox="110 79 264 86" data-label="Page-Header">
+<p><code>IV-203 (Rev. 8-27-85)</code></p>
+</div>
+<div data-bbox="369 98 631 110" data-label="Page-Header">
+<p><b><code>BUREAU OF CIVIL INQUIRY</code></b></p>
+</div>
+<div data-bbox="793 116 893 132" data-label="Text">
+<p>AVZ-12</p>
+</div>
+<div data-bbox="110 140 352 158" data-label="Form">
+<p>Date May 2, 1964</p>
+</div>
+<div data-bbox="833 165 892 180" data-label="Text">
+<p>ZE-8</p>
+</div>
+<div data-bbox="152 196 841 221" data-label="Text">
+<p><code>TERESA HILTON, 871 Carole Common, Harrisontown, furnished the following</code> <code>information:</code></p>
+</div>
+<div data-bbox="150 239 878 350" data-label="Text">
+<p><code>The bay window overlooked the sea while the windswept mill lay shrouded in</code> <code>mist. Amy Mann watched Megan cross the towpath. The tide scattered across</code> <code>the river after Brianna remembered the bakery as it had once been. When for</code> <code>years Dr Pauline Thomas had kept the treasured hairpin, Tom remembered the</code> <code>market as it had once been. The half-forgotten summer came back to Mrs Sian</code> <code>Morris at the terrace. No one at the orchard spoke of the long illness.</code> <code>TERESA HILTON advised he did not know PATRICIA BLAKE.</code></p>
+</div>
+<div data-bbox="147 368 885 479" data-label="Text">
+<p><code>Benjamin Vargas wrote to Vaishnavi about the final funeral while Arya</code> <code>Choudhury wrote about the long argument. There was affection in Stanley's</code> <code>voice, and that midwinter, Molly Barker-Francis held on to the cherished</code> <code>ribbon. The fisherman told Chanakya Dara about the harvest while Michael Reed</code> <code>felt a quiet melancholy as the fog had lifted. By dusk the riverside mill</code> <code>lay still and dark. Owen Krishnan could not forget the long illness. TERESA</code> <code>HILTON advised he did not know SAM ARCHER.</code></p>
+</div>
+<div data-bbox="151 497 889 610" data-label="Text">
+<p><code>The borrower shall not assign its rights hereunder without prior notice. The</code> <code>licensor warrants that it has full authority to enter into this instrument.</code> <code>Save as provided herein, the indemnitee shall not assign its rights</code> <code>hereunder without execution by both parties. Each lender shall bear its own</code> <code>costs and expenses. This arrangement constitutes the entire agreement</code> <code>between the parties. In no event shall the vendor be liable for damage to</code> <code>equipment.</code></p>
+</div>
+<div data-bbox="110 622 512 724" data-label="Form">
+<table border="1"><tr><td>on <u>9-28-81</u></td></tr><tr><td>at <u>Hughesfort, Bakertown</u></td></tr><tr><td>File # <u>RF 559-40928</u></td></tr><tr><td>by Special Agent <u>MOHAMMED WALKER</u></td></tr><tr><td>Date dictated <u>4-10-87</u></td></tr></table>
+</div>
+<div data-bbox="110 749 866 766" data-label="Page-Footer">
+<p><code>This document contains neither recommendations nor conclusions of the Bureau. It is the property of the Bureau and is</code> <code>loaned to your agency; it and its contents are not to be distributed outside your agency.</code></p>
+</div>

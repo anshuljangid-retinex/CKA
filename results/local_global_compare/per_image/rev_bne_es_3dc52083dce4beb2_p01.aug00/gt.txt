@@ -1,0 +1,75 @@
+<div data-bbox="271 173 319 211" data-label="Section-Header">
+<h2>REVISTA DE TEATROS.</h2>
+</div>
+<div data-bbox="162 238 595 260" data-label="Section-Header">
+<h2>DIARIO PINTORESCO DE LITERATURA.</h2>
+</div>
+<div data-bbox="89 282 131 288" data-label="Text">
+<p>NÚM. 202.</p>
+</div>
+<div data-bbox="374 276 518 283" data-label="Text">
+<p>MADRID 3 DE ABRIL DE 1845.</p>
+</div>
+<div data-bbox="778 271 846 278" data-label="Text">
+<p><b>Segunda serie.</b></p>
+</div>
+<div data-bbox="189 311 233 317" data-label="Text">
+<p><b>RIENZI.</b></p>
+</div>
+<div data-bbox="109 341 311 355" data-label="Section-Header">
+<h2>EL ÚLTIMO TRIBUNO.</h2>
+</div>
+<div data-bbox="80 385 494 412" data-label="Text">
+<p>El italiano se reunió á la partida, y la condujo poco despues á la Gran Compañía: un destacamento de treinta hombres la acompañó hasta el campamento, y un capitán se encargó de dirigir los pasos del jefe italiano.</p>
+</div>
+<div data-bbox="83 442 501 501" data-label="Text">
+<p>Acostumbrado á la severa disciplina de las tropas francesas, inglesas y alemanas, creyó que jamás habían presenciado sus ojos tanto desorden. Por todas partes aparecían soldados medio desnudos conduciendo el ganado que acababan de robar: pululaban entre ellos impúdicas mujeres que bailaban deshonestamente ébrias de aguardiente ó incitaban á los guerreros á seguir las á los vecinos bosques: otros soldados medio borrachos bebían y blasfemaban. Por dó quiera se oían juramentos, cauciones lúbricas, disputas que concluían á estocadas, á ejemplo de los espadachines de la Calabria ó de los Apenninos.</p>
+</div>
+<div data-bbox="89 504 507 551" data-label="Text">
+<p>A pesar de la custodia de los treinta guerreros, no pudieron atravesar los prisioneros por medio de aquellas hordas de salvajes sin ser molestados repetidas veces. Centenares de muchachos hambrientos, haraposos, pálidos y flacos, corrían delante de los caballeros lanzando furiosos gritos, y exigiendo imperiosamente una limosna por el amor de Dios, al paso que sentadas en las orgías del campo hacían gala de su torpe liviandad no pocas jóvenes gastadas por el vicio antes de haber salido de la adolescencia.</p>
+</div>
+<div data-bbox="98 569 516 628" data-label="Text">
+<p>Algunos minutos despues entraron en un barrio ó cuartel del campamento, animados en verdad, pero enteramente distinto. Veíanse formados en línea sin número de guerreros por ambos extremos de la senda que conducía á una llanura espaciosa rodeada de palizadas, y en cuyo centro ondeaba una bandera azul. Iban y venían diversos soldados de un lado al otro, pero con el mayor orden y compostura auncuando una cuespresión de alegría animaba sus semblantes tostados muchos de ellos iban cargados de fardos que depositaban en el llano, y de tiempo en tiempo abrían las manos y contaban y recontaban las piezas de oro que tenían.</p>
+</div>
+<div data-bbox="96 636 517 663" data-label="Text">
+<p>—Este es el barrio de los mercaderes, dijo el capitán: se les admite con toda seguridad en el campamento, y sus personas y propiedades son rigorosamente respetadas, compran á los soldados el botín que les ha cabido en suerte, lo pagan bien, y todos están contentos.</p>
+</div>
+<div data-bbox="87 668 514 713" data-label="Text">
+<p>—¡Diávoló! ¡Groseral!.... No hay en Italia una ciudad que posea leyes más imparciales. Ahí teneis las tiendas de los jueces nombrados para dirimir todas las disputas que ocurren en la Gran Compañía con respecto al tráfico; aquella otra grande, á mano derecha, contiene el tesoro del ejército, porque habéis de saber que Fra Moreale siempre dá puntualmente la paga al soldado. Interiormente todo está aquí tan arreglado como una máquina bien montada, aunque algunas veces, lo confieso, esta máquina ocasiona desórdenes exteriores.</p>
+</div>
+<div data-bbox="77 720 510 776" data-label="Text">
+<p>Con tales medios había podido reunir el caballero de san Juan numerosos, bien equipados y obedientes tropas; todos los días le llegaban nuevos soldados; solo se hablaba entre los mercenarios del país de las grandes riquezas adquiridas bajo de su bandera, y todos los aventureros que estaban á sueldo de las repúblicas italianas ó de los tiranos que asolaban el territorio, suspiraban por hallarse en las filas independientes de Fra Moreale. Noticias tal vez exageradas de aquella opulencia habían atravesado los Alpes, y nuestro cautivo jefe vió mas de una tienda adornada con las orgullosas banderas, y con los blasones de la nobleza alemana y de la caballería francesa.</p>
+</div>
+<div data-bbox="66 809 507 845" data-label="Text">
+<p>Todo respiraba tranquilidad en el nuevo cuartel á que acababan de llegar; solo se escuchaba el ruido infernal del Pandemonium de la retaguardia como un murmullo confuso y despacible; algunos soldados cruzaban el camino dirigiéndose á las tiendas, pero apenas fijaban su atención en los prisioneros ni en sus conductores.</p>
+</div>
+<div data-bbox="493 307 918 334" data-label="Text">
+<p>Dicha tienda, colgada de púrpura recamada de oro, estaba algo separada de las demas: en sus inmediaciones serpenteaba un tranquilo arroyuelo, y un árbol corpulento hacia sombra al magnífico pabellón.</p>
+</div>
+<div data-bbox="656 362 734 369" data-label="Section-Header">
+<h2>CAPITULO II.</h2>
+</div>
+<div data-bbox="532 382 779 391" data-label="Text">
+<p>Adriano, huésped de Montreal, por segunda vez.</p>
+</div>
+<div data-bbox="500 406 930 544" data-label="Text">
+<p>M ONTREAL ocupaba el sitio de preferencia sentado delante de una mesa rodeada de hombres, entre los cuales había empleados militares y civiles, á quienes llamaba sus consejeros, y con los cuales deliberaba, en apariencia, acerca de sus proyectos futuros. Estos hombres, sacados de distintas ciudades, estaban profundamente versados en los negocios interiores de los diversos estados á que pertenecían, y podían calcular con exactitud las fuerzas guerreras de un señor, los florines de un mercader y la voluntad de un pueblo. De este modo el caballero provenzal se mostraba en su campamento tan hombre de estado como general. Las noticias que por aquel medio adquiría eran ademas sumamente preciosas para el jefe de la Grande Compañía, pues le daban á conocer el tiempo preciso en que le convenía atacar á un enemigo, y la suma que debía exigir para hacer cesar las hostilidades: sabía á punto fijo con qué clase de personas contar, y si podía importunar ó mostrarse fácil y generoso. Sucedia muchas veces que, por medio de alguna secreta intriga, la aparición del estandarte de Montreal delante de los muros de una ciudad era la señal de una sedición interior; y tal vez estas maniobras se dirigían á resultados lejanos, al mismo tiempo que favorecían sus miras presentes.</p>
+</div>
+<div data-bbox="510 558 910 576" data-label="Text">
+<p>—Conducidle aquí sin perder tiempo, dijo al oficial. Señores, continuó dirigiéndose á sus consejeros y frotando las manos de contento; me parece que el pájaro está ya en nuestra jaula: pronto lo veremos.</p>
+</div>
+<div data-bbox="514 600 936 618" data-label="Text">
+<p>—Gualtero de Montreal, dijo el prisionero, aquí me teneis; soy vuestro huésped por segunda vez: tal vez os costará trabajo reconocer bajo estas tostadas facciones á Adriano de Castello.</p>
+</div>
+<div data-bbox="515 621 936 667" data-label="Text">
+<p>—Perdonad, noble y valiente caballero, contestó Montreal levantándose con la mayor política: la equivocacion de mi gente ha desconcertado por un momento mi memoria; tengo, pues, el mayor gusto en estrechar contra la mia una mano que ha alcanzado tantos laureles desde nuestra última entrevista. La fama de vuestras proezas ha resonado agradablemente en mis oídos. ¡Holá! gritó á los escuderos que rodeaban la estancia; cuidad á este noble señor y á los que á sus órdenes han llegado: señor Adriano, soy con vos al instante.</p>
+</div>
+<div data-bbox="513 672 931 692" data-label="Text">
+<p>Adriano salió, y Montreal, olvidando la presencia de sus consejeros, atravesó á largos pasos la tienda, hizo llamar al oficial que había conducido al caballero romano, y le dijo:</p>
+</div>
+<div data-bbox="507 733 934 767" data-label="Text">
+<p>—Caballero, dijo Montreal, es cierto que mis avanzadas han recibido orden de arrestar á toda persona armada que encontrasen en el camino de Florencia. Estoy en guerra con esa ciudad, pero lo que es hoy esperaba tener aquí otro prisionero. ¿Creeis que haya necesidad de deciros que tanto vos como vuestros soldados sois libres?</p>
+</div>
+<div data-bbox="504 805 935 843" data-label="Text">
+<p>—Os han dicho la verdad: fué mi enemigo y le he vencido; por consiguiente me ha rendido pías: marché sobre Siena por Asciano, y por la miseria de diez y seis mil florines perdoné á aquella ciudad: al presente me preparé á caer como el rayo sobre Florencia, que se ha atrevido á socorrer á Rimini: mis marchas son rápidas y forzadas, y no tardaré en levantar el campo.</p>
+</div>

@@ -1,0 +1,66 @@
+<div data-bbox="334 23 677 47" data-label="Section-Header">
+<h1>හෙල්ත්ෆස්ට් ඩ්‍රග්ස්ටෝර්</h1>
+</div>
+<div data-bbox="359 55 653 66" data-label="Text">
+<p>PSC 6109, Box 5766, APO AE 44371</p>
+</div>
+<div data-bbox="411 76 602 89" data-label="Text">
+<p>දුරකථන: (215)537-2552</p>
+</div>
+<div data-bbox="442 99 572 108" data-label="Text">
+<p>EIN: 08-2142165</p>
+</div>
+<div data-bbox="378 125 637 128" data-label="Text">
+<p>----------------------------------------</p>
+</div>
+<div data-bbox="61 143 364 204" data-label="Text">
+<p>බිල් අංකය : PHA-180651<br>දිනය : 03-ඔක්-2021 15:10<br>අයකැමි : Lisa<br>වර්ගය : ෆාමසිය</p>
+</div>
+<div data-bbox="381 222 638 224" data-label="Text">
+<p>----------------------------------------</p>
+</div>
+<div data-bbox="67 238 956 511" data-label="Table">
+<table border="1"><tr><th>අයිතමය</th><th>ප්‍රමාණය</th><th>අනුපාතය</th><th>මුදල</th></tr><tr><td>Vitamin D3 කැප්සියුල</td><td>2</td><td>2.64</td><td>5.28</td></tr><tr><td>කැස්ස පෙති (ලොසින්ජර්)</td><td>1</td><td>4.91</td><td>4.91</td></tr><tr><td>අත් විෂබීජහරණය</td><td>3</td><td>7.66</td><td>22.98</td></tr><tr><td>රුධිර ග්ලූකෝස් තීරු</td><td>4</td><td>4.80</td><td>19.20</td></tr><tr><td>ඩිජිටල් උෂ්ණත්වමානය</td><td>2</td><td>9.88</td><td>19.76</td></tr><tr><td>මුඛ ආවරණ (5)</td><td>4</td><td>3.71</td><td>14.84</td></tr><tr><td>ORS පැකට්</td><td>1</td><td>9.96</td><td>9.96</td></tr><tr><td>B-කොම්ප්ලෙක්ස් කැප්සියුල</td><td>4</td><td>9.94</td><td>39.76</td></tr><tr><td>විෂබීජනාශක ක්‍රීම්</td><td>1</td><td>6.61</td><td>6.61</td></tr><tr><td>බෑන්ඩ්-එඩ් පැක්</td><td>4</td><td>1.58</td><td>6.32</td></tr><tr><td>Paracetamol 500mg</td><td>4</td><td>9.40</td><td>37.60</td></tr><tr><td>Ibuprofen 400mg</td><td>2</td><td>10.94</td><td>21.88</td></tr><tr><td>කැල්සියම් පෙති</td><td>4</td><td>1.56</td><td>6.24</td></tr><tr><td>බහුවිටමින් 30ක්</td><td>2</td><td>3.11</td><td>6.22</td></tr></table>
+</div>
+<div data-bbox="67 522 322 525" data-label="Text">
+<p>----------------------------------------</p>
+</div>
+<div data-bbox="187 540 501 570" data-label="Text">
+<p>උප එකතුව $221.56<br>විකුණුම් බදු @ 12% $26.59</p>
+</div>
+<div data-bbox="317 579 606 598" data-label="Text">
+<p><b>මුළු එකතුව $248.15</b></p>
+</div>
+<div data-bbox="410 605 605 619" data-label="Text">
+<p>අයිතම: 14 ප්‍රමාණය: 38</p>
+</div>
+<div data-bbox="379 632 635 636" data-label="Text">
+<p>----------------------------------------</p>
+</div>
+<div data-bbox="181 650 485 708" data-label="Text">
+<p>GST SUMMARY<br>විකුණුම් බදු @ 12% $26.59<br>Total Tax $26.59<br>TOTAL SAVINGS $17.72</p>
+</div>
+<div data-bbox="375 725 634 729" data-label="Text">
+<p>----------------------------------------</p>
+</div>
+<div data-bbox="362 744 645 770" data-label="Text">
+<p>Reward Points: +393 Bal: 6526<br>Rate your visit: fb.example/147391</p>
+</div>
+<div data-bbox="257 777 477 808" data-label="Text">
+<p>ගෙවූ මුදල $248.15<br>ඉතිරි මුදල $0.00</p>
+</div>
+<div data-bbox="371 822 631 826" data-label="Text">
+<p>----------------------------------------</p>
+</div>
+<div data-bbox="265 838 735 855" data-label="Text">
+<p>වගකීම් හිමිකම් සඳහා මුල් බදු ඉන්වොයිසිය අවශ්‍ය වේ.</p>
+</div>
+<div data-bbox="268 859 730 876" data-label="Text">
+<p>ඔබගේ ප්‍රතිපෝෂණය අපට වැඩිදියුණු වීමට උපකාරී වේ.</p>
+</div>
+<div data-bbox="365 890 630 914" data-label="Page-Footer">
+<p><b>------ ස්තූතියි ------</b></p>
+</div>
+<div data-bbox="306 928 686 943" data-label="Page-Footer">
+<p>03-ඔක්-2021 15:10 | SwiftPOS මගින් බලගැන්වේ</p>
+</div>

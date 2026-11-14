@@ -1,0 +1,36 @@
+<div data-bbox="110 189 274 197" data-label="Page-Header">
+<p><code>IV-203 (Rev. 10-13-53)</code></p>
+</div>
+<div data-bbox="323 206 656 216" data-label="Page-Header">
+<p><b><code>DEPARTMENT OF PUBLIC INQUIRY</code></b></p>
+</div>
+<div data-bbox="651 172 882 183" data-label="Text">
+<p>The affiliate shall retain copies!</p>
+</div>
+<div data-bbox="824 225 877 234" data-label="Text">
+<p>ZXP-19</p>
+</div>
+<div data-bbox="109 237 330 254" data-label="Form">
+<p>Date February 15, 1975</p>
+</div>
+<div data-bbox="815 264 874 275" data-label="Text">
+<p>GI-13</p>
+</div>
+<div data-bbox="150 286 772 310" data-label="Text">
+<p><code>DAMIEN EDWARDS, Flat 05c</code><br><code>Michael Avenue, Hallside, furnished the following information:</code></p>
+</div>
+<div data-bbox="155 321 860 417" data-label="Text">
+<p><code>The lessee shall indemnify the other party against indirect damages.</code> <code>The parties agree to obtain the necessary consents. Any difference</code> <code>shall be resolved by arbitration. Each vendor shall remit all</code> <code>outstanding payments. The affiliate shall not disclose the confidential</code> <code>information without the payment of all fees. The failure of either</code> <code>party to enforce any term shall not constitute a waiver. Any dispute</code> <code>shall be resolved by confidential arbitration.</code></p>
+</div>
+<div data-bbox="145 427 882 580" data-label="Text">
+<p><code>Upon material breach, the successor may appoint a replacement supplier.</code> <code>This deed governs the rights and obligations between the parties. The</code> <code>parties agree to deliver the required disclosures. The failure of either</code> <code>party to enforce any term shall not constitute a waiver. The borrower</code> <code>acknowledges receipt of the disclosure statement. Notwithstanding</code> <code>anything to the contrary, the party shall not unreasonably withhold</code> <code>consent without execution by both parties. The signatory shall not</code> <code>assign its rights hereunder without execution by both parties. Any</code> <code>waiver of a clause must be in writing. This arrangement shall be</code> <code>governed by the laws of the applicable jurisdiction. DAMIEN EDWARDS</code> <code>advised he did not know SEAN WILLIAMS.</code></p>
+</div>
+<div data-bbox="431 590 536 603" data-label="Text">
+<p>ZU-960 26</p>
+</div>
+<div data-bbox="99 611 375 692" data-label="Form">
+<table border="1"><tr><td>on <u>4-9-83</u></td></tr><tr><td>at <u>Port Vincenttown, Dickinsonberg</u></td></tr><tr><td>File # <u>II 757-75993</u></td></tr><tr><td>by Special Agent <u>ROGER SMITH</u></td></tr><tr><td>Date dictated <u>9-3-62</u></td></tr></table>
+</div>
+<div data-bbox="99 706 865 724" data-label="Page-Footer">
+<p><code>This document contains neither recommendations nor conclusions of the Bureau. It is the property of the Bureau and is loaned</code> <code>to your agency; it and its contents are not to be distributed outside your agency.</code></p>
+</div>

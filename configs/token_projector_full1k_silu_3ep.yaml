@@ -1,0 +1,37 @@
+# TokenProjector Stage-1 on full synthdocs 1k split.
+# Train: all parquet split=train (~979). Eval: split=val (21).
+# 3 epochs; BLEURT required at eval (via evaluate.py).
+dataset: synthdocs
+data_root: "C:/Users/FITT/Desktop/MLP/Retinex-AIGCsynthdocs-warp-slice-1k"
+split: train
+max_samples: null
+max_target_length: 512
+batch_size: 1
+num_workers: 0
+
+epochs: 3
+lr: 1.0e-4
+weight_decay: 0.01
+grad_clip: 1.0
+log_every: 20
+seed: 42
+
+teleocr_id: "StarDoc-AI/TeleOCR"
+chandra_id: "datalab-to/chandra-ocr-2"
+checkpoint_dir: "checkpoints/token_projector_full1k_silu_3ep"
+
+device: cuda
+dtype: bfloat16
+use_stub: false
+
+max_vision_tokens: 512
+prompt: ocr_layout
+
+# Eval (val split) — BLEURT on
+eval_split: val
+bleurt: true
+
+aligner:
+  hidden_dim: 2048
+  dropout: 0.0
+  activation: silu

@@ -1,0 +1,75 @@
+<div data-bbox="596 9 768 266" data-label="Table">
+<table border="1"><tr><th>『サーフィン・サファリ』</th><th></th></tr><tr><td>ザ・ビーチ・ボーイズ の スタジオ・アルバム</td><td></td></tr><tr><td>リリース</td><td>1962年10月29日</td></tr><tr><td>録音</td><td>1961年10月4日, 4月, 8月8日,1962年9月5日,6日</td></tr><tr><td>ジャンル</td><td>サーフ・ロック</td></tr><tr><td>時間</td><td>24分 53秒</td></tr><tr><td>レーベル</td><td>キャピトル・レコード</td></tr><tr><td>プロデュース</td><td>ニック・ヴェネット</td></tr><tr><td>専門評論家によるレビュー</td><td></td></tr><tr><td>• Allmusic link</td><td></td></tr><tr><td>チャート最高順位</td><td></td></tr><tr><td>• 32位（アメリカ[1]）</td><td></td></tr><tr><td>ザ・ビーチ・ボーイズ アルバム 年表</td><td></td></tr><tr><td>サーフィン・サファリ (1962年)サーフィン・U.S.A.(1963年)</td><td></td></tr><tr><td></td><td>サーフィン・サファリ (1962年)</td><td>サーフィン・U.S.A.(1963年)</td></tr><tr><td>テンプレートを表示</td><td></td></tr></table>
+</div>
+<div data-bbox="257 14 590 62" data-label="Text">
+<p><b>サ</b><b>ー</b><b>フ</b><b>ィ</b><b>ン</b><b>・</b><b>サ</b><b>フ</b><b>ァ</b><b>リ</b>(<b><i>Surfin'</i></b> <b><i>Safari</i></b>)は、1962年にリリースされたザ・ビーチ・ボーイズのデビューアルバム。本作発表当時はザ・ビーチ・ボーイズが後にアメリカを代表するバンドに成長することを示唆するものはほとんど見られなかった。</p>
+</div>
+<div data-bbox="254 65 591 167" data-label="Text">
+<p>1961年の秋にブライアン・ウィルソンとそのいとこのマイク・ラブは「サーフィン」を作曲した。ブライアンは弟のデニスとカール、高校の友人アル・ジャーディンを引き入れバンドを結成した。ブライアンはドラムを担当し、カールがリードギター、アルがベース、マイクはフロント・ヴォーカルを担当した。後にアルは学業に専念するため一時脱退、本作のレコーディングでは代役のデヴィッド・マークスがサイドギターで全面的に参加している。デヴィッドはベースが弾けなかったため、ブライアンがベースに転向し、デニスがドラムスを演奏することとなった。</p>
+</div>
+<div data-bbox="252 174 591 287" data-label="Text">
+<p>アナログ盤はモノ・ミックス及び、これを擬似ステレオ化したデュオフォニック・ミックスで発売された。CDではモノ・ミックスのみが発売されている。曲によってはセッション・テープが発見されていない、もしくは現存していないため、ボーナス・トラックの「ランド・アホイ」(「サーフィン」収録のためにトラック・リストから落とされた曲)を除きトゥルー・ステレオ化が実現していない。2012年『サーフィン・U.S.A.』から『スマイリー・スマイル』までがモノ&amp;ステレオの2in1で再発された際、『サーフィン・サファリ』もステレオ・ヴァージョンを発表する計画があり実際に制作も進められていたが[2]、ステレオ化は技術的に無理と判断され実現の可能性は低い[3]。</p>
+</div>
+<div data-bbox="251 306 278 320" data-label="Section-Header">
+<h2>曲目</h2>
+</div>
+<div data-bbox="270 328 766 768" data-label="List-Group">
+<ol style="list-style-type: none;">
+<li>1. サ ー フ ィ ン ・ サ フ ァ リ - Surfin' Safari (Brian Wilson/Mike Love)</li>
+<li>演 奏 時 間 ： 2'05" 、 リ ー ド ・ ヴ ォ ー カ ル ： マ イ ク ・ ラ ブ</li>
+<li>2. カ ウ ン テ ィ ・ フ ェ ア ー - County Fair (Brian Wilson/Gary Usher)</li>
+<li>演 奏 時 間 ： 2'15" 、 リ ー ド ・ ヴ ォ ー カ ル ： マ イ ク ・ ラ ブ</li>
+<li>3. テ ン ・ リ ト ル ・ イ ン デ ィ ア ン ズ - Ten Little Indians (Brian Wilson/Gary Usher)</li>
+<li>演 奏 時 間 ： 1'26" 、 リ ー ド ・ ヴ ォ ー カ ル ： マ イ ク ・ ラ ブ</li>
+<li>4. チ ャ ガ ・ ラ ガ - Chug-A-Lug (Brian Wilson/Gary Usher/Mike Love)</li>
+<li>演 奏 時 間 ： 1'59" 、 リ ー ド ・ ヴ ォ ー カ ル ： マ イ ク ・ ラ ブ</li>
+<li>5. リ ト ル ・ ガ ー ル - Little Girl (You're My Miss America) (Catalano/Herb Alpert)</li>
+<li>演 奏 時 間 ： 2'04" 、 リ ー ド ・ ヴ ォ ー カ ル ： デ ニ ス ・ ウ ィ ル ソ ン</li>
+<li>6. 409 - 409 (Brian Wilson/Mike Love/Gary Usher)</li>
+<li>演 奏 時 間 ： 1'59" 、 リ ー ド ・ ヴ ォ ー カ ル ： マ イ ク ・ ラ ブ</li>
+<li>7. サ ー フ ィ ン - Surfin' (Brian Wilson/Mike Love)</li>
+<li>演 奏 時 間 ： 2'10" 、 リ ー ド ・ ヴ ォ ー カ ル ： マ イ ク ・ ラ ブ</li>
+<li>シ ン グ ル B 面 の 「 ル ア ウ Luau 」 は 公 式 ア ル バ ム に は 収 録 さ れ な か っ た 。 1991 年 の ア ル バ ム 『 ロ ス ト ・ ア ン ド ・ フ ァ ウ ン</li>
+<li>ド Lost And Found (1961-62) 』 に 収 録 さ れ た 。</li>
+<li>8. 君 の 勝 ち - Heads You Win - Tails I Lose (Brian Wilson/Gary Usher)</li>
+<li>演 奏 時 間 ： 2'17" 、 リ ー ド ・ ヴ ォ ー カ ル ： マ イ ク ・ ラ ブ</li>
+<li>9. サ マ ー タ イ ム ・ ブ ル ー ス - Summertime Blues (Eddie Cochran/Jerry Capehart)</li>
+<li>演 奏 時 間 ： 2'09" 、 リ ー ド ・ ヴ ォ ー カ ル ： デ ヴ ィ ッ ド ・ マ ー ク ス 、 カ ー ル ・ ウ ィ ル ソ ン</li>
+<li>10. カ ッ コ ー 時 計 - Cuckoo Clock (Brian Wilson/Gary Usher)</li>
+<li>演 奏 時 間 ： 2'08" 、 リ ー ド ・ ヴ ォ ー カ ル ： ブ ラ イ ア ン ・ ウ ィ ル ソ ン</li>
+<li>11. ム ー ン ・ ド ー グ - Moon Dawg (Derry Weaver) ※ イ ン ス ト ゥ ル メ ン タ ル</li>
+<li>演 奏 時 間 ： 2'00</li>
+<li>12. シ フ ト - The Shift (Brian Wilson/Mike Love)</li>
+<li>演 奏 時 間 ： 1'52" 、 リ ー ド ・ ヴ ォ ー カ ル ： マ イ ク ・ ラ ブ</li>
+</ol>
+</div>
+<div data-bbox="248 774 328 784" data-label="Text">
+<p>ボーナス・トラック</p>
+</div>
+<div data-bbox="276 793 464 819" data-label="List-Group">
+<ol style="list-style-type: none;">
+<li>1. シ ン デ ィ ・ オ ー ・ シ ン デ ィ - Cindy, Oh Cindy</li>
+<li>2. ラ ン ド ・ ア ホ イ - Land Ahoy</li>
+</ol>
+</div>
+<div data-bbox="250 832 413 848" data-label="Section-Header">
+<h2>レコーディング・メンバー</h2>
+</div>
+<div data-bbox="265 855 615 946" data-label="List-Group">
+<ul>
+<li>マ イ ク ・ ラ ブ – lead vocal, harmony voca and backing vocals</li>
+<li>ア ル ・ ジ ャ ー デ ィ ン – harmony and backing vocals on "Surfin'"; acoustic bass on "Surfin'"</li>
+<li>デ ヴ ィ ッ ド ・ マ ー ク ス – lead, harmony and backing vocals; rhythm guitar</li>
+<li>ブ ラ イ ア ン ・ ウ ィ ル ソ ン – lead, harmony and backing vocals; bass guitar; organ</li>
+<li>カ ー ル ・ ウ ィ ル ソ ン – lead, harmony and backing vocals; lead guitar</li>
+<li>デ ニ ス ・ ウ ィ ル ソ ン – lead, harmony and backing vocals; drums</li>
+</ul>
+</div>
+<div data-bbox="255 953 349 967" data-label="Section-Header">
+<h2>参加ミュージシャン</h2>
+</div>
+<div data-bbox="270 973 526 987" data-label="List-Group">
+<ul>
+<li>ニ ッ ク ・ ヴ ェ ネ ッ ト – harmony and backing vocals; electric guitar</li>
+</ul>
+</div>

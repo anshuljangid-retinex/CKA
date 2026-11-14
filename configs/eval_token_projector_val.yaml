@@ -1,0 +1,28 @@
+# Eval TokenProjector on synthdocs val (21). BLEURT required.
+dataset: synthdocs
+data_root: "C:/Users/FITT/Desktop/MLP/Retinex-AIGCsynthdocs-warp-slice-1k"
+split: val
+max_samples: null
+max_target_length: 512
+skip: 0
+
+teleocr_id: "StarDoc-AI/TeleOCR"
+chandra_id: "datalab-to/chandra-ocr-2"
+checkpoint: "checkpoints/token_projector_full1k_silu_3ep/aligner_last.pt"
+
+device: cuda
+dtype: bfloat16
+max_new_tokens: 512
+max_vision_tokens: 512
+prompt: ocr_layout
+
+bleurt: true
+bleurt_checkpoint: "C:/Users/FITT/Desktop/MLP/checkpoints/bleurt_tiny_512_local"
+
+output: "results/token_projector_full1k_silu_3ep_eval.json"
+report_dir: "results/token_projector_full1k_silu_3ep_report"
+
+aligner:
+  hidden_dim: 2048
+  dropout: 0.0
+  activation: silu

@@ -1,0 +1,64 @@
+<div data-bbox="826 72 882 94" data-label="Section-Header">
+<h2>往生寺</h2>
+</div>
+<div data-bbox="765 92 930 234" data-label="Image">
+<img alt="The image displays a placeholder graphic indicating an uploaded photo, featuring two overlapping picture frames with a magnifying glass centered over the front frame, suggesting that an image has been uploaded for display purposes related to the location named &quot;往生寺&quot;."/>
+</div>
+<div data-bbox="789 235 893 249" data-label="Caption">
+<p><b>画</b><b>像</b><b>を</b><b>ア</b><b>ッ</b><b>プ</b><b>ロ</b><b>ー</b><b>ド</b></p>
+</div>
+<div data-bbox="660 553 940 939" data-label="Table">
+<table border="1"><tr><td>所在地</td><td>長野県長野市往生地1334</td></tr><tr><td>位置</td><td>北緯36度39分57秒 東経138度10分38秒 / 北緯36.66583度 東経138.17722度 / 36.66583; 138.17722座標: 北緯36度39分57秒 東経138度10分38秒 / 北緯36.66583度 東経138.17722度 / 36.66583; 138.17722</td></tr><tr><td>山号</td><td>安楽山</td></tr><tr><td>院号</td><td>菩提院</td></tr><tr><td>宗派</td><td>浄土宗</td></tr><tr><td>本尊</td><td>阿弥陀如来苅萱親子地蔵</td></tr><tr><td>創建年</td><td>（伝）正治元年（1199年）</td></tr><tr><td>開基</td><td>苅萱上人（苅萱道心）</td></tr><tr><td>正式名</td><td>安楽山菩提院往生寺</td></tr><tr><td>別称</td><td>苅萱堂</td></tr><tr><td>法人番号</td><td>1100005000331</td></tr><tr><td>テンプレートを表示</td><td></td></tr></table>
+</div>
+<div data-bbox="763 947 805 965" data-label="Section-Header">
+<h1>往生寺</h1>
+</div>
+<div data-bbox="736 967 828 990" data-label="Caption">
+<p>往生寺 (長野県)</p>
+</div>
+<div data-bbox="96 14 708 95" data-label="Text">
+<p><b>往</b><b>生</b><b>寺</b>（おうじょうじ）は、長野県長野市にある浄土宗の寺院。山号は安楽山、院号は菩提院。善光寺の奥の院にあたる。本尊は阿弥陀如来。</p>
+</div>
+<div data-bbox="94 86 141 112" data-label="Section-Header">
+<h2>概要</h2>
+</div>
+<div data-bbox="79 124 700 247" data-label="Text">
+<p>市内の西光寺とともに、謡曲、説経節などで広まった苅萱と石堂丸の伝説で知られ、正治元年（1199年）創建の伝承を持つ。境内には善行寺如来が来迎して刈萱を招いたという来迎松と、刈萱の墓、苅萱親子地蔵がある。また地元出身の草川信が作曲した唱歌「夕焼小焼」のモデルとなった鐘と、その歌碑がある。</p>
+</div>
+<div data-bbox="104 225 405 262" data-label="Text">
+<p>→「西光寺 (長野市) §歴史と「苅萱伝説」」も参照</p>
+</div>
+<div data-bbox="73 259 213 293" data-label="Section-Header">
+<h2>交通アクセス</h2>
+</div>
+<div data-bbox="93 299 360 334" data-label="List-Group">
+<ul>
+<li>JR 北 陸 新 幹 線 長 野 駅 か ら 車 で 約 10 分 。</li>
+</ul>
+</div>
+<div data-bbox="67 336 156 365" data-label="Section-Header">
+<h2>参考文献</h2>
+</div>
+<div data-bbox="82 375 480 443" data-label="List-Group">
+<ul>
+<li>『 信 州 の 文 化 シ リ ー ズ 寺 と 神 社 』 1981 年 信 濃 毎 日 新 聞 社</li>
+<li>『 探 訪 信 州 の 古 寺 浄 土 教 ・ 日 蓮 宗 』 1996 年 郷 土 出 版 社</li>
+</ul>
+</div>
+<div data-bbox="56 435 148 465" data-label="Section-Header">
+<h2>関連項目</h2>
+</div>
+<div data-bbox="75 474 190 498" data-label="List-Group">
+<ul>
+<li>西 光 寺 ( 長 野 市 )</li>
+</ul>
+</div>
+<div data-bbox="45 509 163 541" data-label="Section-Header">
+<h2>外部リンク</h2>
+</div>
+<div data-bbox="61 548 458 618" data-label="List-Group">
+<ul>
+<li>な が の 百 景 38 ま ち な み が 望 め る 往 生 寺 長 野 市</li>
+<li>刈 萱 堂 往 生 寺 （ お う じ ょ う じ ） ◎ 浄 土 宗 全 国 善 行 寺 会</li>
+</ul>
+</div>

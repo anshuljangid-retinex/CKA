@@ -1,0 +1,6 @@
+<div data-bbox="206 125 906 396" data-label="Image">
+<img alt="The diagram illustrates a geometric graph structure composed of interconnected nodes linked by colored edges, forming a complex network that visually represents relationships within a mathematical framework related to symmetry versus regularity. The accompanying text identifies the topic as “Symmetry vs Regularity” and references “Spectra of Graphs Theory,” indicating the figure serves to demonstrate concepts in spectral graph theory through visual representation of graph connectivity and structural properties."/>
+</div>
+<div data-bbox="176 415 789 660" data-label="Image">
+<img alt="The German identity card displays a photograph of a woman with blonde hair and blue eyes, alongside printed personal details including her surname Mustermann, given name Erika, date of birth 12.08.1964, nationality German, place of birth Berlin, and expiration date 31.10.2020, along with an identification number T22000129 and a signature at the bottom right. The card’s purpose is to serve as official government-issued identification for the holder."/>
+</div>

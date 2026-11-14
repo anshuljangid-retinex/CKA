@@ -1,0 +1,45 @@
+<div data-bbox="53 42 296 55" data-label="Page-Header">
+<p>THE ATLAS · The Interview · Juin 2024</p>
+</div>
+<div data-bbox="51 64 444 225" data-label="Section-Header">
+<h2>Actualités Internationales : Un Regard Critique</h2>
+</div>
+<div data-bbox="55 232 187 245" data-label="Text">
+<p><b>Par Philippe Chrétien</b></p>
+</div>
+<div data-bbox="53 249 486 458" data-label="Text">
+<p>Le secteur agricole contribue au PIB à hauteur de 18 % et représente 61 % du total des exportations. L'Argentine compte environ de paysans, qui produisent près de 80 % des légumes consommés dans le pays. Pourtant, « la culture prédominante des grands propriétaires fonciers rend invisibles les petits producteurs », déplore Matías Bohl, référent de la Fédération nationale paysanne. La propriété de la terre est très inégalement répartie. Moins de 1 % des propriétaires terriens possèdent 40 % de la terre. Le gouvernement annonce des mesures pour la biodiversité. Manifestation massive pour la protection de l'environnement.</p>
+</div>
+<div data-bbox="57 461 487 650" data-label="Text">
+<p>La moitié des communes a moins de deux cents habitants, dix-sept communes en ont moins de cinquante, et de nombreux hameaux ont été abandonnés. Les villes sont petites : seules sont considérées comme urbaines par l'INSEE et seules deux agglomérations, celles de Digne-les-Bains et Manosque, dépassent les . Les arrondissements de Barcelonnette et de Castellane sont les deux arrondissements les moins peuplés de France. Celui de Barcelonette est le seul de France avec moins de . La ville de Castellane est également la plus petite sous-préfecture de France.</p>
+</div>
+<div data-bbox="58 654 380 757" data-label="Section-Header">
+<h2>Le Rôle De La Culture Dans La Société</h2>
+</div>
+<div data-bbox="61 763 237 779" data-label="Text">
+<p><b>Par Bernadette-Suzanne Bazin</b></p>
+</div>
+<div data-bbox="511 60 946 269" data-label="Text">
+<p>Dans les années 1920, bien qu'il ait accepté de devenir un romancier d'aventures, Maurice Leblanc cherche toujours à s'émanciper de son héros à succès. Cependant, les romans publiés avec un nouveau héros rencontrent un succès moindre, si bien que l'écrivain transforme à l'occasion certains de ses récits en aventures inédites d'Arsène Lupin. Ainsi, en 1923, il consent à introduire de façon anecdotique, le gentleman cambrioleur lors de la réédition de L'Éclat d'obus ; dans les années 1927-1928, Leblanc se résout à transformer, en cours d'écriture, le détective Jim Barnett en avatar de Lupin. Nouvelles technologies pour une énergie plus verte.</p>
+</div>
+<div data-bbox="513 276 943 466" data-label="Text">
+<p>Les présidences se succèdent entre 1930 et 1983, mais sur seize présidents, onze sont des militaires et plusieurs sont « présidents de facto » (par opposition aux présidents élus). Perón fait alors ses débuts dans la politique : lieutenant-colonel titulaire de quelques secrétariats d'État du gouvernement militaire établi en juin 1943, il est élu président après la fin de la Seconde Guerre mondiale. Celle-ci ayant entraîné l’affaiblissement de l’Occident, l'Argentine devient, vers 1950, la neuvième puissance économique mondiale. Après la guerre, de nombreux nazis fuient en Argentine et ailleurs en Amérique latine.</p>
+</div>
+<div data-bbox="512 469 929 533" data-label="Section-Header">
+<h2>Voyage : Découvrir La France Rurale</h2>
+</div>
+<div data-bbox="513 539 621 548" data-label="Text">
+<p><b>Par Astrid Vincent</b></p>
+</div>
+<div data-bbox="511 557 939 712" data-label="Text">
+<p>La partie côtière du littoral Azuréen, est très urbanisée et densément peuplée, elle regroupe toutes les villes de la Côte d'Azur dans une conurbation quasi continue de Menton à Théhoule-sur-Mer, tandis que la partie montagneuse, plus étendue mais faiblement peuplée, est entièrement rurale exception faite des trois grandes stations de Valberg née en 1936, Auron en 1937 et Isola 2000 en 1971. Nouvelles technologies pour une énergie plus verte.</p>
+</div>
+<div data-bbox="513 715 937 888" data-label="Text">
+<p>Selon une importante étude du Barometer d'Amérique latine, le paysage religieux argentin se répartit entre 77 % de catholiques, 7 % de protestants, 4 % des autres religions et 13 % de sans religion. Le nombre d'athées est très important pour un pays d'Amérique latine, d'autant plus que dans les années 1960, il n'y avait que rarement d'Argentins sans religion. Nouvelles technologies pour une énergie plus verte. Le réchauffement climatique affecte les cultures agricoles. L'ONU appelle à des actions urgentes pour le climat.</p>
+</div>
+<div data-bbox="62 900 262 919" data-label="Page-Footer">
+<p>THE ATLAS · numéro 196 · Juin 2024</p>
+</div>
+<div data-bbox="490 914 509 923" data-label="Page-Footer">
+<p><b>319</b></p>
+</div>

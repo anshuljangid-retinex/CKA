@@ -1,0 +1,48 @@
+<div data-bbox="275 314 350 347" data-label="Text">
+<p><b>CÉDULA DE</b><br><b>IDENTIDAD</b></p>
+</div>
+<div data-bbox="398 315 439 345" data-label="Image">
+<img alt="The flag of Chile is displayed within the document, featuring a blue canton containing a white star above a red field that occupies the lower portion of the flag. The presence of the flag indicates national identity for the document, which is identified by surrounding text as a Chilean identification card."/>
+</div>
+<div data-bbox="454 311 606 330" data-label="Text">
+<p><b>REPÚBLICA DE CHILE</b></p>
+</div>
+<div data-bbox="683 329 720 369" data-label="Image">
+<img alt="A star-shaped emblem is centered within a light gray square background. The emblem has five points and a slightly blurred appearance. It is positioned against a muted beige backdrop that frames the entire image. This symbol likely serves as an official insignia or decorative element associated with the Republic of Chile and Marcela Carolina."/>
+</div>
+<div data-bbox="280 383 418 542" data-label="Image">
+<img alt="The photograph displays a woman with dark hair and a light-colored collared shirt, smiling gently toward the camera, identified by associated text as Marcela Fredez with the identifier RUN 12.749.625-K. The image serves as an official portrait within a document context."/>
+</div>
+<div data-bbox="448 362 498 388" data-label="Text">
+<p><b>FREDEZ</b><br><b>VIDAL</b></p>
+</div>
+<div data-bbox="444 400 604 416" data-label="Text">
+<p><b>MARCELA CAROLINA</b></p>
+</div>
+<div data-bbox="551 426 557 428" data-label="Text">
+<p><b>F</b></p>
+</div>
+<div data-bbox="439 455 521 469" data-label="Text">
+<p><b>21 FEB 1982</b></p>
+</div>
+<div data-bbox="546 436 633 447" data-label="Text">
+<p><b>NÚMERO DOCUMENTO</b></p>
+</div>
+<div data-bbox="439 483 493 493" data-label="Text">
+<p>1 SEP 2013</p>
+</div>
+<div data-bbox="541 460 636 470" data-label="Text">
+<p><b>FECHA DE VENCIMIENTO</b></p>
+</div>
+<div data-bbox="430 506 599 532" data-label="Text">
+<p>Marcela Fredez</p>
+</div>
+<div data-bbox="647 418 683 457" data-label="Image">
+<img alt="The image contains a grayscale portrait of a woman with long dark hair and a neutral expression, positioned centrally within a rectangular frame against a plain background. No text or labels are visible in the image itself. The apparent purpose of this figure in the document context is to serve as an identification photograph associated with the document’s referenced number and expiration date fields."/>
+</div>
+<div data-bbox="647 520 680 540" data-label="Image">
+<img alt="The image displays a blurred logo featuring a circular emblem centered within a rectangular frame, rendered in shades of blue against a light background, with no discernible text or labels visible. The apparent purpose of this figure in the document context is to represent an institutional or organizational identifier associated with Marcela Fredez, likely indicating the entity responsible for the expiration date referenced nearby."/>
+</div>
+<div data-bbox="262 550 414 572" data-label="Text">
+<p><b>RUN 12.749.625-K</b></p>
+</div>

@@ -1,0 +1,19 @@
+{
+  "cka_global": 0.2978288095092556,
+  "cka_local": 0.1212452529878359,
+  "n_samples": 500,
+  "n_local_tokens": 255782,
+  "vision_dim": 1024,
+  "text_dim": 2560,
+  "max_samples_requested": 500,
+  "max_vision_tokens": 512,
+  "max_target_length": 512,
+  "split": "train",
+  "seed": 42,
+  "data_root": "C:\\Users\\FITT\\Desktop\\MLP\\Retinex-AIGCsynthdocs-warp-slice-1k",
+  "teleocr_id": "StarDoc-AI/TeleOCR",
+  "chandra_id": "datalab-to/chandra-ocr-2",
+  "text_field": "teacher_raw_html",
+  "kernel": "linear",
+  "note": "cka_local pairs each patch token with its sample's mean-pooled text embedding"
+}

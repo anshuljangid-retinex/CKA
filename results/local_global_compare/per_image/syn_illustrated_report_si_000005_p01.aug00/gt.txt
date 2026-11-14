@@ -1,0 +1,27 @@
+<div data-bbox="66 166 666 204" data-label="Section-Header">
+<h1>නාගරීකරණය හා ජල සම්පත් කළමනාකරණය</h1>
+</div>
+<div data-bbox="70 208 312 231" data-label="Section-Header">
+<h2>සාහිත්‍ය සමාලෝචනය</h2>
+</div>
+<div data-bbox="73 224 873 331" data-label="Text">
+<p>1930 සිට වාණිජමය වශයෙන් මිළට ගත හැකි වූ රූපවාහිනී නිවාස හා ආයතනවල විශේෂයෙන් විනෝදාස්වාද හා ප්‍රවෘත්ති ප්‍රභවයක් ලෙස බහුලව භාවිතා වන ගෘහස්ථ සන්නිවේදන උපකරණයක් බවට පත්විය. 1970 VCR පටි මත වීඩියෝ පටිගත කිරීමේ සිට DVD වැනි සංඛ්‍යාංක ධාවන පද්ධති රූපවාහිනී මඟින් පටිගත කළ චිත්‍රපටි හා අනෙකුත් වැඩසටහන් නැරඹීමට ඉඩ ප්‍රස්ථාව ලබා දී ඇත. නියැදිය තෝරාගනු ලැබුවේ අහඹු නියැදි ක්‍රමය ඔස්සේය.</p>
+</div>
+<div data-bbox="84 329 919 427" data-label="Text">
+<p>මාතුල දනව්ව පිහිටියේ අද කෑගල්ල අවට පෙදෙසයි. පසුකාලිනයන් විසින් ‘මාතුල අළුලෙන’ ස්ථානය මාතලේ අලුවිහාරේ යෑයි උපකල්පනය කර හඳුන්වා ඇති බව පෙනේ. මහතිල හෙවත් ලොකු තල (මහ තල) ධාන්‍ය වර්ගයේ ශාක තිබූ පෙදෙස මහතල හෙවත් මාතලේ විය. එසේ නොමැතිව මාතුල මාතලේ වූවා නොවේ. මෙම න්‍යාය තවදුරටත් තහවුරු කිරීම සඳහා අමතර පර්යේෂණ අවශ්‍ය වේ. මෙම අධ්‍යයනයේ අරමුණ වන්නේ එම සාධකවල බලපෑම විමර්ශනය කිරීමයි.</p>
+</div>
+<div data-bbox="95 434 639 573" data-label="Figure">
+<img alt="The graph presents two plots showing performance characteristics of a centrifugal compressor rotor under different beta angles, illustrating how efficiency and pressure ratio vary with relative flow rate across three specified beta conditions. The left plot displays efficiency percentages against relative flow rate for beta angles of 40°, 45°, and 50°, while the right plot shows pressure ratios against the same variable for those same beta settings. Both curves demonstrate a general trend of increasing performance at lower relative flow rates that gradually declines toward higher flow rates, with each beta angle curve exhibiting distinct positions indicating differences in operational behavior. The data suggests that variations in beta angle influence both efficiency and pressure ratio profiles within the operating range."/>
+</div>
+<div data-bbox="110 580 913 666" data-label="Caption">
+<p><i>Figure 1: The graph presents two plots showing performance characteristics of a centrifugal compressor</i> <i>rotor under different beta angles, illustrating how efficiency and pressure ratio vary with relative flow rate</i> <i>across three specified beta conditions. The left plot displays efficiency percentages against relative flow rate</i> <i>for beta angles of 40°, 45°, and 50°, while the right plot shows pressure ratios against the same variable for</i> <i>those same beta settings. Both curves demonstrate a general trend of increasing performance at lower</i> <i>relative flow rates that gradually declines toward higher flow rates, with each beta angle curve exhibiting</i> <i>distinct positions indicating differences in operational behavior. The data suggests that variations in beta</i> <i>angle influence both efficiency and pressure ratio profiles within the operating range.</i></p>
+</div>
+<div data-bbox="119 667 915 747" data-label="Text">
+<p>ශ්‍රී ලංකාව බොහෝ පැරණි ශිෂ්ටාචාරයක්‌ ඇති රටකි. මීට වසර 2500 කට පමණ පෙර විජය නැමැති ඉන්දියානු රජ කුමාරයා සමග පැමිණි පිරිස ලංකාට පැමිණෙන විට කුවේණිය නම් යක්‍ෂ ගෝත්‍රික කාන්තාව කපු වියමින් සිටි බව මහවංශයේ සඳහන් වේ. එයින් පිලිබිඹු වන්නේ අතීතයේ සිටම අපේ රටේ රෙදි විවීම වැනි කර්මාන්ත කරවූ දියුණු ශිෂ්ට සම්පන්න ජන කොටසක්‌ වූ බවයි.</p>
+</div>
+<div data-bbox="114 744 923 827" data-label="Text">
+<p>සිදුකර ඇති පුරාවිද්‍යා පර්යේෂණ අනුව ලංකාවේ මානව යටගියාව පිළිබඳ සාධක අදින් වසර 125,000 දක්වා ඈතට දිවයයි. ලංකා‍වේ වයඹදිග හා ගිණිකොණදිග ප්‍රදේශයන්ගේ වෙරළාශ්‍රීත ප්‍රදේශවල ව්‍යාප්තව ඇති ඉරණමඩු පාංශු සංකීර්ණයට අයත් බූන්දල වැල්ලෙගංගොඩ හා පතිරාජවෙල යන ස්ථානයන්ගේ සිදුකරන ලද පුරාවිද්‍යා පර්යේෂණ අනුව මෙම කරුණු තහවුරු වී ඇත. මෙම න්‍යාය තවදුරටත් තහවුරු කිරීම සඳහා අමතර පර්යේෂණ අවශ්‍ය වේ.</p>
+</div>
+<div data-bbox="108 840 319 856" data-label="Page-Footer">
+<p>graph presents plots showing</p>
+</div>

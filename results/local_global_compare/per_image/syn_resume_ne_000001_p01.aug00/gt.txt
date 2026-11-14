@@ -1,0 +1,112 @@
+<div data-bbox="55 38 221 66" data-label="Section-Header">
+<h1>देवेन्‍द्र न्यौपाने</h1>
+</div>
+<div data-bbox="57 89 352 103" data-label="Text">
+<p><b>GROUP PRODUCT MANAGER</b></p>
+</div>
+<div data-bbox="57 147 634 162" data-label="Text">
+<p>lkrmaacaary@example.org · +977 305 6439053 · मन्थली* · linkedin.com/in/देवेन्‍द्रन्यौपा</p>
+</div>
+<div data-bbox="56 203 125 220" data-label="Section-Header">
+<h2>प्रोफाइल</h2>
+</div>
+<div data-bbox="57 239 937 276" data-label="Text">
+<p>Group Product Manager with 17+ years building and scaling products across edtech. Track record of leading teams, shipping measurable outcomes and turning ambiguous problems into reliable systems.</p>
+</div>
+<div data-bbox="56 294 109 309" data-label="Section-Header">
+<h2>सम्पर्क</h2>
+</div>
+<div data-bbox="357 297 411 311" data-label="Section-Header">
+<h2>अनुभव</h2>
+</div>
+<div data-bbox="358 312 711 330" data-label="Text">
+<p><b>Group Product Manager — रेग्मी Networks</b></p>
+</div>
+<div data-bbox="76 315 322 399" data-label="List-Group">
+<ul>
+<li>lkrmaacaary@example.org</li>
+<li>+977 305 6439053</li>
+<li>मन्थली*</li>
+<li>linkedin.com/in/देवेन्‍द्रन्यौपा</li>
+</ul>
+</div>
+<div data-bbox="357 333 624 350" data-label="Text">
+<p>बेल्टार बसाहा | अप्रिल 2023 – हालसम्म</p>
+</div>
+<div data-bbox="376 353 920 434" data-label="List-Group">
+<ul>
+<li>त्रैमासिक गो-टु-मार्केट रणनीति लाई रूपान्तरण गरेँ, जसले वार्षिक रूपमा $910K</li>
+<li>बचत गर्‍यो।</li>
+<li>ग्राहक-वर्गीकरण मोडेल लाई अगाडि बढाएँ, जसले 24 सरोकारवाला व्यवस्थापन गर्दै</li>
+<li>अपटाइम 72% ले बढायो।</li>
+</ul>
+</div>
+<div data-bbox="56 404 92 418" data-label="Section-Header">
+<h2>सीप</h2>
+</div>
+<div data-bbox="77 425 336 549" data-label="List-Group">
+<ul>
+<li>Product: A/B Testing,</li>
+<li>Stakeholder Management,</li>
+<li>User Research</li>
+<li>Analytics: Looker, Spark, dbt</li>
+<li>Cloud &amp; Tools: Snowflake,</li>
+<li>Terraform, GCP</li>
+</ul>
+</div>
+<div data-bbox="358 439 679 457" data-label="Text">
+<p><b>Senior Product Manager — पौडेल Labs</b></p>
+</div>
+<div data-bbox="357 460 586 480" data-label="Text">
+<p>गुल्मी | डिसे 2022 – अप्रिल 2023</p>
+</div>
+<div data-bbox="376 480 928 566" data-label="List-Group">
+<ul>
+<li>मोबाइल एप पुनः-सुरुवात लाई सुव्यवस्थित गरेँ, जसले 59 टोलीहरूमा समाधान-समय</li>
+<li>84% ले घटायो।</li>
+<li>ग्राहक-अनबोर्डिङ पुनःडिजाइन को अगुवाइ गरेँ, जसले वार्षिक रूपमा $383K बचत</li>
+<li>गर्‍यो।</li>
+</ul>
+</div>
+<div data-bbox="56 551 102 567" data-label="Section-Header">
+<h2>शिक्षा</h2>
+</div>
+<div data-bbox="358 567 655 589" data-label="Text">
+<p><b>Product Manager — ढङ्गेल Analytics</b></p>
+</div>
+<div data-bbox="77 572 237 633" data-label="List-Group">
+<ul>
+<li>MBA, Marketing</li>
+<li>स्याङ्जा प्रविधि संस्थान</li>
+<li>ब्याच 2015</li>
+</ul>
+</div>
+<div data-bbox="357 587 590 609" data-label="Text">
+<p>काठमाडौं | अग 2019 – सेप 2022</p>
+</div>
+<div data-bbox="376 608 927 696" data-label="List-Group">
+<ul>
+<li>ग्राहक-वर्गीकरण मोडेल लाई विस्तार गरेँ, जसले 9 टोलीहरूमा दोष-निकास दर 34%</li>
+<li>ले घटायो।</li>
+<li>क्रस-फंक्सनल एनालिटिक्स पहल को सुरुवात गरेँ, जसले डेभलपर वेलोसिटीमा 68%</li>
+<li>सुधार ल्यायो।</li>
+</ul>
+</div>
+<div data-bbox="56 734 177 752" data-label="Section-Header">
+<h2>मुख्य परियोजना</h2>
+</div>
+<div data-bbox="77 767 701 814" data-label="List-Group">
+<ul>
+<li>व्यक्तिगतीकरण तथा र्‍याङ्किङ सेवा — निर्माण: रूपान्तरण दरमा 18% को वृद्धि ल्याउने समाधान।</li>
+<li>क्रस-प्लेटफर्म सूचना हब — निर्माण: जित दरमा 27% को वृद्धि ल्याउने समाधान।</li>
+</ul>
+</div>
+<div data-bbox="56 854 154 866" data-label="Section-Header">
+<h2>प्रमाणपत्रहरू</h2>
+</div>
+<div data-bbox="76 885 425 926" data-label="List-Group">
+<ul>
+<li>डेटाब्रिक्स प्रमाणित डेटा इन्जिनियर एसोसिएट · 2020</li>
+<li>ह्यासिकर्प प्रमाणित: टेराफर्म एसोसिएट · 2026</li>
+</ul>
+</div>

@@ -1,0 +1,36 @@
+<div data-bbox="408 225 573 233" data-label="Page-Header">
+<p>Downtown · IFSC QRLV0167505</p>
+</div>
+<div data-bbox="354 187 626 204" data-label="Section-Header">
+<h1>Coastal Credit Union</h1>
+</div>
+<div data-bbox="547 239 862 256" data-label="Section-Header">
+<h1>STATEMENT OF ACCOUNT</h1>
+</div>
+<div data-bbox="765 266 863 271" data-label="Section-Header">
+<h2>ACCOUNT SUMMARY</h2>
+</div>
+<div data-bbox="554 284 872 388" data-label="Text">
+<p>Account Holder : ماهان ترکاشوند<br>Account Number : XXXX XXXX XXXX 5552<br>Account Type : Business Current<br>IFSC / Branch : QRLV0167505 / Downtown<br>Statement Period : 01 مارس 2021 — 28 مارس 2021<br>Currency : USD</p>
+</div>
+<div data-bbox="699 404 873 414" data-label="Text">
+<p><b>Opening Balance $7,097.60</b></p>
+</div>
+<div data-bbox="741 426 874 432" data-label="Section-Header">
+<h2>TRANSACTION DETAILS</h2>
+</div>
+<div data-bbox="125 440 879 671" data-label="Table">
+<table border="1"><tr><th>Date</th><th>Description</th><th>Debit</th><th>Credit</th><th>Balance</th></tr><tr><td>02-مارس-2021</td><td>پرداخت قبض خدمات</td><td>387.43</td><td></td><td>6,710.17</td></tr><tr><td>05-مارس-2021</td><td>برداشت قسط وام (EMI)</td><td>552.96</td><td></td><td>6,157.21</td></tr><tr><td>07-مارس-2021</td><td>واگذاری چک</td><td></td><td>144.37</td><td>6,301.58</td></tr><tr><td>07-مارس-2021</td><td>کارمزد اشتراک</td><td>467.39</td><td></td><td>5,834.19</td></tr><tr><td>10-مارس-2021</td><td>دستور پرداخت مستمر</td><td>14.95</td><td></td><td>5,819.24</td></tr><tr><td>10-مارس-2021</td><td>برداشت قسط وام (EMI)</td><td>572.64</td><td></td><td>5,246.60</td></tr><tr><td>12-مارس-2021</td><td>کارمزد پیامک هشدار</td><td>58.80</td><td></td><td>5,187.80</td></tr><tr><td>13-مارس-2021</td><td>انتقال NEFT</td><td>521.69</td><td></td><td>4,666.11</td></tr><tr><td>16-مارس-2021</td><td>خرید سوخت</td><td>451.01</td><td></td><td>4,215.10</td></tr><tr><td>16-مارس-2021</td><td>پرداخت مالیات</td><td>662.86</td><td></td><td>3,552.24</td></tr><tr><td>17-مارس-2021</td><td>پرداخت آنلاین قبض</td><td>650.47</td><td></td><td>2,901.77</td></tr><tr><td>18-مارس-2021</td><td>واریز نقدی</td><td></td><td>583.57</td><td>3,485.34</td></tr><tr><td>18-مارس-2021</td><td>انتقال NEFT</td><td>149.74</td><td></td><td>3,335.60</td></tr><tr><td>21-مارس-2021</td><td>انتقال NEFT</td><td>712.37</td><td></td><td>2,623.23</td></tr><tr><td>21-مارس-2021</td><td>مجوز برداشت خودکار</td><td>475.02</td><td></td><td>2,148.21</td></tr><tr><td>22-مارس-2021</td><td>انتقال NEFT</td><td>485.08</td><td></td><td>1,663.13</td></tr><tr><td>25-مارس-2021</td><td>واریز نقدی</td><td></td><td>624.68</td><td>2,287.81</td></tr><tr><td>25-مارس-2021</td><td>خرید سوخت</td><td>611.76</td><td></td><td>1,676.05</td></tr><tr><td>26-مارس-2021</td><td>انتقال IMPS</td><td>183.13</td><td></td><td>1,492.92</td></tr><tr><td>26-مارس-2021</td><td>برداشت وجه نقد از خودپرداز</td><td>35.10</td><td></td><td>1,457.82</td></tr><tr><td>28-مارس-2021</td><td>واریز بازگشت وجه</td><td></td><td>159.05</td><td>1,616.87</td></tr><tr><td>28-مارس-2021</td><td>مجوز برداشت خودکار</td><td>86.83</td><td></td><td>1,530.04</td></tr><tr><td>28-مارس-2021</td><td>انتقال NEFT</td><td>638.48</td><td></td><td>891.56</td></tr><tr><td>28-مارس-2021</td><td>پرداخت به پذیرنده</td><td>213.37</td><td></td><td>678.19</td></tr><tr><td>28-مارس-2021</td><td>شارژ تلفن همراه</td><td>177.95</td><td></td><td>500.24</td></tr></table>
+</div>
+<div data-bbox="798 677 880 681" data-label="Section-Header">
+<h2>RECONCILIATION</h2>
+</div>
+<div data-bbox="714 694 880 744" data-label="Text">
+<p><b>Total Debits $8,109.03</b><br><b>Total Credits $1,511.67</b><br><b>Closing Balance $500.24</b></p>
+</div>
+<div data-bbox="445 767 874 779" data-label="Page-Footer">
+<p>Coastal Credit Union · This is a computer-generated statement and does not require a signature.</p>
+</div>
+<div data-bbox="476 784 524 793" data-label="Page-Footer">
+<p>Page 1 of 3</p>
+</div>

@@ -1,0 +1,75 @@
+<div data-bbox="673 2 1000 260" data-label="Table">
+<table border="1"><tr><th>『サーフィン・サファリ』</th><th></th></tr><tr><td>ザ・ビーチ・ボーイズ の スタジオ・アルバム</td><td></td></tr><tr><td>リリース</td><td>1962年10月29日</td></tr><tr><td>録音</td><td>1961年10月4日, 4月, 8月8日,1962年9月5日,6日</td></tr><tr><td>ジャンル</td><td>サーフ・ロック</td></tr><tr><td>時間</td><td>24分 53秒</td></tr><tr><td>レーベル</td><td>キャピトル・レコード</td></tr><tr><td>プロデュース</td><td>ニック・ヴェネット</td></tr><tr><td>専門評論家によるレビュー</td><td></td></tr><tr><td>• Allmusic link</td><td></td></tr><tr><td>チャート最高順位</td><td></td></tr><tr><td>• 32位（アメリカ[1]）</td><td></td></tr><tr><td>ザ・ビーチ・ボーイズ アルバム 年表</td><td></td></tr><tr><td>サーフィン・サファリ (1962年)サーフィン・U.S.A.(1963年)</td><td></td></tr><tr><td></td><td>サーフィン・サファリ (1962年)</td><td>サーフィン・U.S.A.(1963年)</td></tr><tr><td>テンプレートを表示</td><td></td></tr></table>
+</div>
+<div data-bbox="0 0 659 40" data-label="Text">
+<p><b>サ</b><b>ー</b><b>フ</b><b>ィ</b><b>ン</b><b>・</b><b>サ</b><b>フ</b><b>ァ</b><b>リ</b>(<b><i>Surfin'</i></b> <b><i>Safari</i></b>)は、1962年にリリースされたザ・ビーチ・ボーイズのデビューアルバム。本作発表当時はザ・ビーチ・ボーイズが後にアメリカを代表するバンドに成長することを示唆するものはほとんど見られなかった。</p>
+</div>
+<div data-bbox="0 53 660 152" data-label="Text">
+<p>1961年の秋にブライアン・ウィルソンとそのいとこのマイク・ラブは「サーフィン」を作曲した。ブライアンは弟のデニスとカール、高校の友人アル・ジャーディンを引き入れバンドを結成した。ブライアンはドラムを担当し、カールがリードギター、アルがベース、マイクはフロント・ヴォーカルを担当した。後にアルは学業に専念するため一時脱退、本作のレコーディングでは代役のデヴィッド・マークスがサイドギターで全面的に参加している。デヴィッドはベースが弾けなかったため、ブライアンがベースに転向し、デニスがドラムスを演奏することとなった。</p>
+</div>
+<div data-bbox="0 165 659 279" data-label="Text">
+<p>アナログ盤はモノ・ミックス及び、これを擬似ステレオ化したデュオフォニック・ミックスで発売された。CDではモノ・ミックスのみが発売されている。曲によってはセッション・テープが発見されていない、もしくは現存していないため、ボーナス・トラックの「ランド・アホイ」(「サーフィン」収録のためにトラック・リストから落とされた曲)を除きトゥルー・ステレオ化が実現していない。2012年『サーフィン・U.S.A.』から『スマイリー・スマイル』までがモノ&amp;ステレオの2in1で再発された際、『サーフィン・サファリ』もステレオ・ヴァージョンを発表する計画があり実際に制作も進められていたが[2]、ステレオ化は技術的に無理と判断され実現の可能性は低い[3]。</p>
+</div>
+<div data-bbox="0 299 52 313" data-label="Section-Header">
+<h2>曲目</h2>
+</div>
+<div data-bbox="53 325 994 775" data-label="List-Group">
+<ol style="list-style-type: none;">
+<li>1.サーフィン・サファリ -Surfin' Safari (Brian Wilson/Mike Love)</li>
+<li>演奏時間：2'05"、リード・ヴォーカル：マイク・ラブ</li>
+<li>2.カウンティ・フェアー -County Fair (Brian Wilson/Gary Usher)</li>
+<li>演奏時間：2'15"、リード・ヴォーカル：マイク・ラブ</li>
+<li>3.テン・リトル・インディアンズ -Ten Little Indians (Brian Wilson/Gary Usher)</li>
+<li>演奏時間：1'26"、リード・ヴォーカル：マイク・ラブ</li>
+<li>4.チャガ・ラガ -Chug-A-Lug (Brian Wilson/Gary Usher/Mike Love)</li>
+<li>演奏時間：1'59"、リード・ヴォーカル：マイク・ラブ</li>
+<li>5.リトル・ガール -Little Girl (You're My Miss America) (Catalano/Herb Alpert)</li>
+<li>演奏時間：2'04"、リード・ヴォーカル：デニス・ウィルソン</li>
+<li>6. 409 - 409 (Brian Wilson/Mike Love/Gary Usher)</li>
+<li>演奏時間：1'59"、リード・ヴォーカル：マイク・ラブ</li>
+<li>7.サーフィン -Surfin' (Brian Wilson/Mike Love)</li>
+<li>演奏時間：2'10"、リード・ヴォーカル：マイク・ラブ</li>
+<li>シングルB面の「ルアウLuau」は公式アルバムには収録されなかった。1991年のアルバム『ロスト・アンド・ファウン</li>
+<li>ドLost And Found (1961-62)』に収録された。</li>
+<li>8.君の勝ち -Heads You Win - Tails I Lose (Brian Wilson/Gary Usher)</li>
+<li>演奏時間：2'17"、リード・ヴォーカル：マイク・ラブ</li>
+<li>9.サマータイム・ブルース -Summertime Blues (Eddie Cochran/Jerry Capehart)</li>
+<li>演奏時間：2'09"、リード・ヴォーカル：デヴィッド・マークス、カール・ウィルソン</li>
+<li>10.カッコー時計 -Cuckoo Clock (Brian Wilson/Gary Usher)</li>
+<li>演奏時間：2'08"、リード・ヴォーカル：ブライアン・ウィルソン</li>
+<li>11.ムーン・ドーグ -Moon Dawg (Derry Weaver) ※インストゥルメンタル</li>
+<li>演奏時間：2'00</li>
+<li>12.シフト -The Shift (Brian Wilson/Mike Love)</li>
+<li>演奏時間：1'52"、リード・ヴォーカル：マイク・ラブ</li>
+</ol>
+</div>
+<div data-bbox="0 784 153 794" data-label="Text">
+<p>ボーナス・トラック</p>
+</div>
+<div data-bbox="53 803 414 829" data-label="List-Group">
+<ol style="list-style-type: none;">
+<li>1.シンディ・オー・シンディ -Cindy, Oh Cindy</li>
+<li>2.ランド・アホイ -Land Ahoy</li>
+</ol>
+</div>
+<div data-bbox="0 844 315 858" data-label="Section-Header">
+<h2>レコーディング・メンバー</h2>
+</div>
+<div data-bbox="26 868 710 957" data-label="List-Group">
+<ul>
+<li>マイク・ラブ – lead vocal, harmony voca and backing vocals</li>
+<li>アル・ジャーディン – harmony and backing vocals on "Surfin'"; acoustic bass on "Surfin'"</li>
+<li>デヴィッド・マークス – lead, harmony and backing vocals; rhythm guitar</li>
+<li>ブライアン・ウィルソン – lead, harmony and backing vocals; bass guitar; organ</li>
+<li>カール・ウィルソン – lead, harmony and backing vocals; lead guitar</li>
+<li>デニス・ウィルソン – lead, harmony and backing vocals; drums</li>
+</ul>
+</div>
+<div data-bbox="0 969 182 982" data-label="Section-Header">
+<h2>参加ミュージシャン</h2>
+</div>
+<div data-bbox="26 990 534 1000" data-label="List-Group">
+<ul>
+<li>ニック・ヴェネット – harmony and backing vocals; electric guitar</li>
+</ul>
+</div>

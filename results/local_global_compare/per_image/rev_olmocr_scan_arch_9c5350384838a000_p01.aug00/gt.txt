@@ -1,0 +1,33 @@
+<div data-bbox="375 176 566 187" data-label="Page-Header">
+<p>Declassification Authority NND 923007</p>
+</div>
+<div data-bbox="273 293 468 305" data-label="Section-Header">
+<h2>RETURN FOR CENTRAL FILES</h2>
+</div>
+<div data-bbox="99 314 189 320" data-label="Text">
+<p>RGR 0017 EEEE RGR ON 019</p>
+</div>
+<div data-bbox="162 345 304 368" data-label="Text">
+<p><b>OPS</b> <b>12</b> <b>1850</b> <b>Z</b></p>
+</div>
+<div data-bbox="108 386 303 397" data-label="Text">
+<p>ENB119 YDC144 TYD159 TMA165MEA081</p>
+</div>
+<div data-bbox="109 409 158 416" data-label="Text">
+<p>ZFD JEPMO</p>
+</div>
+<div data-bbox="110 416 235 425" data-label="Text">
+<p>OO JEDEN JEPNY JEDWP JEPHQ</p>
+</div>
+<div data-bbox="111 438 421 453" data-label="Text">
+<p>FM COMDR 773RD ACW SQ MONTAUK AFS MONTAUK LI NY</p>
+</div>
+<div data-bbox="113 461 530 479" data-label="Text">
+<p>JEDWP/COMDR AIR TECHNICAL INTELL CENTER WRIGHT-PATTERSON AFB OHIO</p>
+</div>
+<div data-bbox="121 491 368 508" data-label="Text">
+<p>/UNCLASSIFIED/ ACK. 867. UFOB. IAW PAR 7. D., AFREG 200-2. THE FO</p>
+</div>
+<div data-bbox="124 499 733 590" data-label="Text">
+<p>REPT IS SBMD: 1A LIKE A STAR. B. SIZE OF A PEA HELD AT ARMS LENGTH. C. BLUE. D. ONE (1). E. N/A F. NONE. G. NONE. H. SOUNDED LIKE ACFT, I. NONE. 2A. IT WAS MOVING VERY FAST. B. UNK. C. UNK. D, AT INITIAL SIGHTING, ACFT PROD TO MOVE STRAIGHT UP AT FAST RATE OF SPEED. ACFT RTND DOWN TO IP AND PROD TO MOVE OUT ON HORIZ TANGENT. ACFT THEN RTND TO IP AND HOVERED FOR APRX ONE MINUTE BEFORE DISAPPEARING. E. UNK. F. OBJECT APPEARED FOR NOE MINUTE DURATION AND REAPPEARED 30 MINUTES LATER. 3A GRND VIS. B. N/A C. N/A. 4A. 11/0145Z. B, DUSK. 5A.</p>
+</div>

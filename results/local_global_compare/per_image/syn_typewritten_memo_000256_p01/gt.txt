@@ -1,0 +1,42 @@
+<div data-bbox="130 115 301 126" data-label="Page-Header">
+<p><code>FD-118 (Rev. 12-7-53)</code></p>
+</div>
+<div data-bbox="314 136 686 150" data-label="Page-Header">
+<p><b><code>NATIONAL RECORDS COMMISSION</code></b></p>
+</div>
+<div data-bbox="813 92 870 104" data-label="Text">
+<p>Upon breach!</p>
+</div>
+<div data-bbox="822 161 871 173" data-label="Text">
+<p>DFL-39</p>
+</div>
+<div data-bbox="130 182 372 204" data-label="Form">
+<p>Date July 3, 1981</p>
+</div>
+<div data-bbox="817 213 871 234" data-label="Text">
+<p>DG-14</p>
+</div>
+<div data-bbox="129 245 149 257" data-label="Text">
+<p>(2)</p>
+</div>
+<div data-bbox="175 275 765 327" data-label="Text">
+<p><code>RANBIR SOMAN, H.No. 02</code><br><code>Dube Path, Pimpri-Chinchwad, furnished the following</code> <code>information:</code></p>
+</div>
+<div data-bbox="172 345 852 521" data-label="Text">
+<p><code>The scent of sea air drifted from the clocktower. Upadhriti</code> <code>Mukherjee loved the harbour in midwinter. Lauren Chapman was</code> <code>overcome by contentment as the rain had stopped as the bay</code> <code>lay still beneath the starless sky. By first light the</code> <code>village lay under snow while the orchard lay still beneath</code> <code>the clearing sky. The lamplighters scattered across the</code> <code>coastline. Diane Hoffman could not forget the first meeting.</code> <code>No one at the post office spoke of the last summer. RANBIR</code> <code>SOMAN advised he did not know DAMINI DUTT.</code></p>
+</div>
+<div data-bbox="461 534 539 550" data-label="Text">
+<p>BO-647 2</p>
+</div>
+<div data-bbox="130 566 409 629" data-label="Form">
+<table border="1"><tr><td>on <u>2-16-73</u></td></tr><tr><td>at <u>Kharagpur, Malda</u></td></tr><tr><td>File # <u>XI 870-22668</u></td></tr></table>
+</div>
+<div data-bbox="129 638 285 674" data-label="Figure">
+<p>Image: Handwritten signature of LAJITA SETHI in black ink.</p>
+</div>
+<div data-bbox="130 677 532 723" data-label="Form">
+<table border="1"><tr><td>by Special Agent <u>LAJITA SETHI</u></td></tr><tr><td>Date dictated <u>9-5-56</u></td></tr></table>
+</div>
+<div data-bbox="130 746 868 764" data-label="Page-Footer">
+<p><code>This document contains neither recommendations nor conclusions of the Bureau. It is the property of the Bureau and</code> <code>is loaned to your agency; it and its contents are not to be distributed outside your agency.</code></p>
+</div>

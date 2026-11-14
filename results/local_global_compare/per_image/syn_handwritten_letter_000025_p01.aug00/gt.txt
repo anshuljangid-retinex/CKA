@@ -1,0 +1,33 @@
+<div data-bbox="685 102 880 122" data-label="Text">
+<p>5th December 2026</p>
+</div>
+<div data-bbox="118 146 233 173" data-label="Text">
+<p>Dear Bryan,</p>
+</div>
+<div data-bbox="119 172 871 278" data-label="Text">
+<p>All that summer, the sailor walked along the footbridge. In the silence, Stanley Ali returned to the post office. The shopkeeper waited by the gate until the last train. The harbour wall overlooked the river. The scent of woodsmoke drifted from the churchyard. The tide scattered across the river.</p>
+</div>
+<div data-bbox="121 291 857 366" data-label="Text">
+<p>The old woman told Mrs Nicola Bird about the farewell. All that summer, Grace Smith-Adams wrote of isolation and doubt. Caleb Gaba lingered <del>at</del> the gate, watching the lamplighters. The distant ships scattered across the hills. Kevin Brown watched the children from the balcony.</p>
+</div>
+<div data-bbox="124 380 876 483" data-label="Text">
+<p>There was affection in Yash's voice. Nathan Brewer found the creased signet ring. That winter, Kelli Moore mended the muffler, but at last, the sea lay still beneath the grey sky. Widisha remembered the tavern as it had once been. Kala Sani and Jay parted at the porch.</p>
+</div>
+<div data-bbox="231 485 310 509" data-label="Text">
+<p>^ By midday</p>
+</div>
+<div data-bbox="120 523 864 627" data-label="Text">
+<p>Tracey Khan-Faulkner felt a quiet <del>foreboding.</del> Candice Harper could not forget the reunion. A quiet calm settled over the tavern. Diana Burke watched Alexis cross the high street. <del>Carlos</del> spoke of mystery and consolation. For years Toby Cox had kept the half-hidden brooch. By first light, the bells had fallen silent.</p>
+</div>
+<div data-bbox="123 641 881 750" data-label="Text">
+<p>One grey morning, the shopkeeper strolled along the garden path. The tender summer came back to Christopher Dominguez at the balcony as the harbour wall overlooked the hills. Brittany spoke of solitude and truth. Children's laughter echoed across the harbor. By midday, the rain had stopped.</p>
+</div>
+<div data-bbox="188 787 292 806" data-label="Text">
+<p>Best wishes,</p>
+</div>
+<div data-bbox="202 820 392 843" data-label="Text">
+<p>Patrick Gallagher</p>
+</div>
+<div data-bbox="112 858 845 901" data-label="Text">
+<p>P.S. As Lucky Gola could not forget the summer, Michael Nunez MD wrote to Janet about the unexpected visit.</p>
+</div>
